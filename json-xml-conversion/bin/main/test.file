@@ -1,0 +1,1 @@
+<object><object name="profile"><string name="firstName">Rajkumar</string><string name="lastName">Settiayappan</string><number name="age">20</number><array name="friends"><string>Karthick</string><object><string name="firstName">Sue</string><string name="lastName">Jones</string></object></array></object></object>

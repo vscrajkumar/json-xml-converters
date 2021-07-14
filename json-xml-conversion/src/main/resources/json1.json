@@ -1,0 +1,11 @@
+	{
+"profile" : {
+				"firstName" : "Rajkumar",
+				"lastName" : "Settiayappan",
+				"age" : 20,
+				"friends" : ["Karthick", {
+											"firstName" : "Sue",
+											"lastName" : "Jones"
+										 }]
+			}
+}
